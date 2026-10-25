@@ -2,6 +2,14 @@
 
 An iPhone remote for Samsung Smart TVs (2016 and newer), over Wi-Fi.
 
+<p>
+  <img src="screenshots/tv-list.png" width="180" alt="TV list">
+  <img src="screenshots/remote.png" width="180" alt="Remote">
+  <img src="screenshots/touchpad.png" width="180" alt="Touchpad">
+  <img src="screenshots/apps.png" width="180" alt="Apps">
+  <img src="screenshots/cast.png" width="180" alt="Cast">
+</p>
+
 ## Features
 
 - Finds TVs on your Wi-Fi automatically, or add one by IP address
